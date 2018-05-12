@@ -1,0 +1,27 @@
+_repo: The-American-Country-Girl_32949
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crow, Martha Foote
+    birthdate: 1854
+    deathdate: 1924
+    gutenberg_agent_id: '6063'
+    url: http://www.gutenberg.org/2009/agents/6063
+description: ''
+gutenberg_issued: '2010-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32949'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- United States'
+- !lcc 'S'
+- !lcsh 'Farm life -- United States'
+title: The American Country Girl
+url: http://www.gutenberg.org/ebooks/32949
